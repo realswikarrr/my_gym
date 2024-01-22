@@ -29,6 +29,11 @@ export default function Home() {
           <DayCategory text="Pull 2" />
         </Link>
       </div>
+      <p className="flex justify-center font-mono mt-10">
+        IMPORTANT: this is not my content, i made this app for my personal use,
+        if you happen to be here please support jeff nippard through youtube for
+        this amazing workouts.{" "}
+      </p>
     </main>
   );
 }
